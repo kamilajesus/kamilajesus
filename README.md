@@ -10,7 +10,7 @@
 
 Desde pequena sempre fui apaixonada por tecnologia, de uns tempos pra cá comecei a estudar sobre programação e vi que isso é o que eu queria fazer da vida. 
 
-Estou no 2º semestre do curso de Engenharia de Software.
+Estou no 2º ano do curso de Engenharia de Software.
 
 Sou formada em Administração e Design.
 
