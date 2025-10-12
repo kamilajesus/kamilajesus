@@ -2,9 +2,7 @@
 
 <h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/kamilajesus)](https://www.facebook.com/kamilajesusdev)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/kamilajesus)](https://www.instagram.com/kamilajjesus/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kamilajesus)](https://www.linkedin.com/in/kamila-jesus-/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/kamilajesus)](https://www.instagram.com/eukamilajesus/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/kamilajesus)](https://open.spotify.com/user/224m2x4nhanmoxrizgv2k3z6y)
 
 
@@ -12,7 +10,9 @@
 
 Desde pequena sempre fui apaixonada por tecnologia, de uns tempos pra cá comecei a estudar sobre programação e vi que isso é o que eu queria fazer da vida. 
 
-Estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Uniámerica.
+Estou no 2º semestre do curso de Engenharia de Software.
+
+Sou formada em Administração e Design.
 
 Tenho conhecimentos em: HTML, CSS, JavaScript, React, Tailwind CSS, BootStrap, GIT, e Linux.
 
